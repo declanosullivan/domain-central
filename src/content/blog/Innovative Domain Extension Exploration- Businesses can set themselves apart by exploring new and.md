@@ -1,3 +1,10 @@
+---
+title: 'First post'
+description: 'Lorem ipsum dolor sit amet'
+pubDate: 'Jul 08 2022'
+heroImage: '/blog-placeholder-3.jpg'
+---
+
 1. **Innovative Domain Extension Exploration**: Businesses can set themselves apart by exploring new and innovative domain extensions beyond the traditional .com, .net, or .org. This includes industry-specific extensions like .tech, .fashion, or .finance which can help a brand stand out and directly communicate its field of expertise.
 
 2. **Localized Domain Acquisition**: For businesses looking to strengthen their presence in specific geographical markets, acquiring localized domain extensions such as .nyc, .london, or .tokyo can enhance local SEO performance and resonate more with local customers.

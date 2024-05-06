@@ -1,3 +1,10 @@
+---
+title: 'First post'
+description: 'Lorem ipsum dolor sit amet'
+pubDate: 'Jul 08 2022'
+heroImage: '/blog-placeholder-3.jpg'
+---
+
 # The Link Between Domain Prices and Web Traffic
 
 Are you considering buying a new domain for your website? It's important to understand the link between domain prices and web traffic before making your decision. In this article, we will explore how the cost of a domain can impact the amount and quality of traffic your website receives.

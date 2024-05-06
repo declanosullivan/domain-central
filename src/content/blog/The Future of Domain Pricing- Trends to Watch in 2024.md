@@ -1,4 +1,12 @@
-### 3. The Future of Domain Pricing: Trends to Watch in 2024\*\* 
+---
+title: 'First post'
+description: 'Lorem ipsum dolor sit amet'
+pubDate: 'Jul 08 2022'
+heroImage: '/blog-placeholder-3.jpg'
+---
+
+### The Future of Domain Pricing: Trends to Watch in 2024
+
 **1. Introduction**
 * Discuss the dynamic nature of domain pricing.
 * Preview the exploration of future trends in domain pricing.
