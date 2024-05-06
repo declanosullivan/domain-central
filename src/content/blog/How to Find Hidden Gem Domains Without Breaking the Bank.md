@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'How to Find Hidden Gem Domains Without Breaking the Bank'
+description: 'When it comes to establishing a strong online presence, one of the key factors that can set your business apart is having a unique domain name.'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---

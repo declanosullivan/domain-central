@@ -1,5 +1,5 @@
 ---
-title: 'First post'
+title: 'The Future of Domain Pricing: Trends to Watch in 2024'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'

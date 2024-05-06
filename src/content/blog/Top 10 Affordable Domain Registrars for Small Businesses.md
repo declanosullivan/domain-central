@@ -1,5 +1,5 @@
 ---
-title: 'First post'
+title: 'Top 10 Affordable Domain Registrars for Small Businesses'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'First post'
+title: 'Why a Premium Domain Name Makes Sense for Your Business'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'

@@ -1,5 +1,5 @@
 ---
-title: 'First post'
+title: 'The Global Domain Market: Pricing Differences Across Countries'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'

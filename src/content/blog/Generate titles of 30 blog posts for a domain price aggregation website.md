@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'Generate titles of 30 blog posts for a domain price aggregation website'
+description: 'Generate titles of 30 blog posts for a domain price aggregation website'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---

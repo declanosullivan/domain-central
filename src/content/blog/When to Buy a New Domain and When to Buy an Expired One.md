@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'When to Buy a New Domain and When to Buy an Expired One'
+description: 'In this article, we will explore how to make the right choice that will help establish your business online.'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---

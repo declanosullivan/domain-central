@@ -1,6 +1,6 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'The Link Between Domain Prices and Web Traffic'
+description: 'In this article, we will explore how the cost of a domain can impact the amount and quality of traffic your website receives.'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'
 ---

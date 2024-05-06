@@ -1,5 +1,5 @@
 ---
-title: 'First post'
+title: 'Unveiling the Best Domain Deals of 2023: Where to Save Big'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'May 06 2024'
 heroImage: '/blog-placeholder-3.jpg'
